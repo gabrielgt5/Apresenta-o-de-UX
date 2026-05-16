@@ -67,8 +67,8 @@ export const SLIDES = [
 
   { 
     id: 20, 
-    type: "full_video", 
-    videoUrl: "/video-oque-e-design.mp4"
+    type: "video_embed", 
+    embedUrl: "https://www.youtube.com/embed/97ER65BxmpM?si=hzf6BDV0fHTIcecR"
   },
   { 
     id: 18, 
