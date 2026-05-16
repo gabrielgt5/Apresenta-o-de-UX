@@ -10,7 +10,7 @@ export const SLIDES = [
   { id: 1, type: "cover", title: "O MUNDO DO SOFTWARE", icon: Building2, colors: "from-blue-500 to-cyan-300" },
   { id: 2, type: "thought_bubble", title: "IMAGINA QUE ESTAMOS\nCONSTRUINDO UMA CIDADE DIGITAL..." },
   { id: 3, type: "image", title: "Na nossa Cidade Digital...", imageUrl: "/ilustracao-cidade.png" },
-  { id: 4, type: "split", title: "Mas,", content: "Quem vai cuidar da experiência dos moradores? onde vai ficar os bairros a iluminação ?", imageUrl: "/confuso.png", imageAnimation: "doubt" },
+  { id: 4, type: "split", title: "Mas,", content: "Quem vai cuidar da experiência dos moradores? Onde vão ficar os bairros e a iluminação?", imageUrl: "/confuso.png", imageAnimation: "doubt" },
   { id: 5, type: "full_image", imageUrl: "/conjunto-cidade.png" },
   { id: 6, type: "flashback", title: "Antes de falarmos de UX/UI Design....", subtitle: "Vamos entender alguns conceitos...", gifUrl: "/mikonjackson.gif" },
   { id: 7, type: "tv", title: "A VIDA DO USUÁRIO", icon: UserCircle2 },
@@ -54,7 +54,7 @@ export const SLIDES = [
     type: "image", 
     title: "Essa bicicleta irá funcionar?", 
     imageUrl: "/Bicicleta Convergente.png",
-    caption: "1.4 A “bicicleta convergente (modelo para noivos)” tipo carelman. A “Bicicleta Convergente” de Jacques Carelman Copyright © 1969-76-80 de Jacques Carelman e A.D.A.G.P Paris. Da Obra de Jacques Carelman, Catalogue d’objets introuvables, Balland éditeur, Paris, França. Usada do Livro Design do dia dia PG 36."
+    caption: "1.4 A “bicicleta convergente (modelo para noivos)” tipo carelman. A “Bicicleta Convergente” de Jacques Carelman Copyright © 1969-76-80 de Jacques Carelman e A.D.A.G.P Paris. Da Obra de Jacques Carelman, Catalogue d’objets introuvables, Balland éditeur, Paris, França. Usada do Livro Design do dia a dia PG 36."
   },
 
 
@@ -139,7 +139,7 @@ export const SLIDES = [
     type: "split", 
     title: "No Software: A Lógica do UX", 
     content: "O UX Designer decide quantas telas você precisa passar para **fazer um PIX**.", 
-    highlight: "Onde fica o **botão de cancelar** para evitar erros e qual o caminho mais rápido para a compra.", 
+    highlight: "Define onde fica o botão de cancelar para evitar erros e qual o caminho mais rápido para a compra.", 
     icon: MousePointerClick 
   },
   { 
